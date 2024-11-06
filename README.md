@@ -1,6 +1,7 @@
 # ProyFarmacia
-Alan Ivan Marquez Ancasi
-Sistemas de Informacion 2 
+- Alan Ivan Marquez Ancasi
+- Sistemas de Informacion 2
+  
 Farmacia Buena Salud es una empresa
 dedicada a la venta de productos
 farmacéuticos y de cuidado personal,
